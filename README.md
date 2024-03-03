@@ -1,7 +1,7 @@
 # 지뢰찾기 자동화 프로그램
 
 <div>
-<h3> 아두이노 영상</h3>
+<h3> 프로그램 영상</h3>
 </div>
 
 [![mine](http://img.youtube.com/vi/SuUC1fI8knc/0.jpg)](https://www.youtube.com/watch?v=SuUC1fI8knc)
